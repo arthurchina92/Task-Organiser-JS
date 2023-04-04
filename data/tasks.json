@@ -1,0 +1,11 @@
+[
+    { "text": "Tomar el curso de intro a React", "completed": false },
+    { "text": "Lavar los trastes", "completed": false },
+    { "text": "Limpiar el patio", "completed": false },
+    { "text": "Limpiarle al perro y al gato", "completed": false },
+    { "text": "Darle de comer al perro y al gato", "completed": false },
+    { "text": "Barrer y trapear", "completed": false },
+    { "text": "Lavar el carro", "completed": false },
+    { "text": "Hacer la tarea", "completed": false },
+    { "text": "Definir las metas del proyecto", "completed": false }
+  ]
